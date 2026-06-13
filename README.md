@@ -176,6 +176,3 @@ $$\text{Lookahead}(S) = \text{TokenStream}[\text{CurrentIndex}]$$
 
 This project is open-source. Feel free to copy, modify, and redistribute the syntax analysis modules and parsing engine files as required.
 
-```
-
-```
